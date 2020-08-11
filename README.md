@@ -4,7 +4,7 @@
 
 #### 👀 Want to have a peek at my most recent problem's solution? 🤔
 🌐 Visit https://vandra-jms.com (soft-launching late August!)  <br><br>
-💬 Want to discuss building a solution to a scaleable problem? <br>
+💬 Want to discuss building a solution to a problem that exists on scale? <br>
 📫 Reach me at rahulkejriwal18@gmail.com
 
 <!--
