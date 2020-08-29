@@ -1,11 +1,11 @@
 ### Hello world! 🌎
- 🔭 I aspire to innovate at the intersection of computer science and humanities. <br>
-🌱 I build solutions to technically critical problems everyday!
+ 🔭  I aspire to innovate at the intersection of computer science and humanities. <br>
+🌱  I build solutions to technically critical problems everyday!
 
 #### 👀 Want to have a peek at my most recent problem's solution? 🤔
-🌐 Visit https://vandra-jms.com (soft-launching late August!)  <br><br>
-💬 Want to discuss building a solution to a problem that exists on scale? <br>
-📫 Reach me at rahulkejriwal18@gmail.com
+🌐  Visit https://vandra-jms.com (soft-launching late August!)  <br><br>
+💬  Want to discuss building a solution to a problem that exists on scale? <br>
+📫  Reach me at rahulkejriwal18@gmail.com
 
 <!--
 **rkej/rkej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
