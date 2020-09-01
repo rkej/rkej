@@ -1,12 +1,13 @@
 ### Hello world! 🌎
-![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rkej&show_icons=true&theme=radical)<br/>
  🔭  &nbsp; I aspire to innovate at the intersection of computer science and humanities. <br>
 🌱  &nbsp; I build solutions to technically critical problems everyday!
 
 #### 👀 &nbsp; Want to have a peek at my most recent problem's solution? 🤔
 🌐  &nbsp; Visit https://vandra-jms.com (soft-launching late August!)  <br><br>
 💬  &nbsp; Want to discuss building a solution to a problem that exists on scale? <br>
-📫  &nbsp; Reach me at rahulkejriwal18@gmail.com
+📫  &nbsp; Reach me at rahulkejriwal18@gmail.com<br/>
+Are you a recruiter? Here are some stats for you :) <br />
+![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rkej&show_icons=true&theme=radical)<br/>
 
 <!--
 **rkej/rkej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
