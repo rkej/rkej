@@ -6,7 +6,8 @@
 🌐  &nbsp; Visit https://vandra-jms.com (soft-launching late August!)  <br><br>
 💬  &nbsp; Want to discuss building a solution to a problem that exists on scale? <br>
 📫  &nbsp; Reach me at rahulkejriwal18@gmail.com<br/>
-Are you a recruiter? Here are some stats for you :) <br />
+<br/>
+Are you a recruiter? Here are some stats for you :) <br /> <br>
 ![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rkej&show_icons=true&theme=radical)<br/>
 
 <!--
