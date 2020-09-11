@@ -9,9 +9,8 @@
 📫  &nbsp; Reach me at rahulkejriwal18@gmail.com<br/>
 <br/>
 Are you a recruiter? Here are some stats for you :) <br /> <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkej&theme=solarized-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br/>
-![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rkej&show_icons=true&theme=solarized-dark)<br/>
-[![trophy](https://github-profile-trophy.vercel.app/?username=rkej&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=rkej&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=rkej&theme=onedark&include_all_commits=true)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **rkej/rkej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
