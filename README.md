@@ -9,7 +9,7 @@
 <br/>
 Are you a recruiter? Here are some stats for you :) <br /> <br>
 ![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rkej&show_icons=true&theme=radical)<br/>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **rkej/rkej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
