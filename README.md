@@ -1,5 +1,5 @@
-### Hello world! 🌎
-![Avatar](IMG_2139.PNG)<br/>
+ <img src="IMG_2139.PNG" width="200" height="200" /><br/> <br />
+
  🔭  &nbsp; I aspire to innovate at the intersection of computer science and humanities. <br>
 🌱  &nbsp; I build solutions to technically critical problems everyday!
 
