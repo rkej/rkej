@@ -1,10 +1,10 @@
- <img src="https://github.com/rkej/rkej/blob/master/IMG_2139.PNG" width="200" height="200" /><br/> <br />
+ <img src="https://github.com/rkej/rkej/blob/master/IMG_2139.PNG" width="200" height="200" /><br/> 
 
  🔭  &nbsp; I aspire to innovate at the intersection of computer science and humanities. <br>
 🌱  &nbsp; I build solutions to technically critical problems everyday!
 
 #### 👀 &nbsp; Want to have a peek at my most recent problem's solution? 🤔
-🌐  &nbsp; Visit https://vandra-jms.com (soft-launching late August!)  <br><br>
+🌐  &nbsp; Visit https://vandra-jms.com (soft-launching late August!)  <br>
    #### 💬 &nbsp; Want to discuss building a solution to a problem that exists on scale? <br>
 📫  &nbsp; Reach me at rahulkejriwal18@gmail.com<br/>
 <br/>
