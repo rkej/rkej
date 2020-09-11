@@ -1,4 +1,5 @@
 ### Hello world! 🌎
+![Avatar](IMG_2139.PNG)<br/>
  🔭  &nbsp; I aspire to innovate at the intersection of computer science and humanities. <br>
 🌱  &nbsp; I build solutions to technically critical problems everyday!
 
@@ -8,7 +9,7 @@
 📫  &nbsp; Reach me at rahulkejriwal18@gmail.com<br/>
 <br/>
 Are you a recruiter? Here are some stats for you :) <br /> <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkej&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkej&theme=solarized-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br/>
 ![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rkej&show_icons=true&theme=solarized-dark)<br/>
 [![trophy](https://github-profile-trophy.vercel.app/?username=rkej&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
