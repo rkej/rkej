@@ -1,8 +1,8 @@
  <img src="https://github.com/rkej/rkej/blob/master/IMG_2139.PNG" width="200" height="200" /><br/> 
 
 🔭  &nbsp; I aspire to innovate at the intersection of computer science and humanities. <br>
-🌱  &nbsp; I build solutions to technically critical problems everyday!
-🔭  &nbsp; I’m currently working @Microsoft helping build Microsoft Teams at scale/ 
+🌱  &nbsp; I build solutions to technically critical problems everyday! <br>
+🔭  &nbsp; I’m currently working @Microsoft helping build Microsoft Teams at scale. 
 #### 👀 &nbsp; Want to have a peek at my most recent problem's solution? 🤔
 🌐  &nbsp; Visit https://vandra.space (public beta)  <br>
    #### 💬 &nbsp; Want to discuss building a solution to a problem that exists at scale? <br>
