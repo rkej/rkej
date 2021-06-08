@@ -6,10 +6,7 @@
 #### 👀 &nbsp; Want to have a peek at my most recent problem's solution? 🤔
 🌐  &nbsp; Visit https://vandra.space (public beta)  <br>
    #### 💬 &nbsp; Want to discuss building a solution to a problem that exists at scale? <br>
-📫  &nbsp; Reach me at rahulkejriwal18@gmail.com<br/>
-<br/>
-<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=rkej&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
-[![trophy](https://github-profile-trophy.vercel.app/?username=rkej&theme=onedark&include_all_commits=true)](https://github.com/ryo-ma/github-profile-trophy)
+📫  &nbsp; Reach me at rahulkejriwal18@gmail.com
 <!--
 **rkej/rkej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
