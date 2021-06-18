@@ -4,7 +4,7 @@
 🌱  &nbsp; I build solutions to technically critical problems everyday! <br>
 🔭  &nbsp; I’m currently working @ Microsoft helping build Microsoft Teams at scale. 
 #### 👀 &nbsp; Want to have a peek at my most recent problem's solution? 🤔
-🌐  &nbsp; Visit https://vandra.space (public beta)  <br>
+🌐  &nbsp; Visit https://www.vandra.space (public beta)  <br>
    #### 💬 &nbsp; Want to discuss building a solution to a problem that exists at scale? <br>
 📫  &nbsp; Reach me at rahulkejriwal18@gmail.com
 <!--
