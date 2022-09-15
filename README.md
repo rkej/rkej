@@ -2,7 +2,8 @@
 
 🔭  &nbsp; I aspire to innovate at the intersection of computer science and humanities. <br>
 🌱  &nbsp; I build solutions to technically critical problems everyday! <br>
- ⚡  &nbsp; I’m currently working @ Microsoft helping build Microsoft Teams at scale. 
+ ⚡  &nbsp; I’m currently working @ AWS helping developers and small businesses host apps with [Amazon Lightsail](https://aws.amazon.com/lightsail/). <br>
+ :stopwatch:  &nbsp; I used to work at Microsoft to help build Microsoft Teams at scale. 
 #### 👀 &nbsp; Want to have a peek at my most recent problem's solution? 🤔
 🌐  &nbsp; Visit https://www.vandra.space (public beta)  <br>
    #### 💬 &nbsp; Want to discuss building a solution to a problem that exists at scale? <br>
