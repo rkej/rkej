@@ -3,7 +3,7 @@
 🔭  &nbsp; I aspire to innovate at the intersection of computer science and humanities. <br>
 🌱  &nbsp; I build solutions to technically critical problems everyday! <br>
 🌱  &nbsp; I am currently building an instutional grade quant vol fund for my owm proprietary desk! <br>
- ⚡  &nbsp; I’m used to work @ AWS helping developers and small businesses host apps with [Amazon Lightsail](https://aws.amazon.com/lightsail/) and helped build Microsoft Teams at Microsoft for a bit! <br>
+ ⚡  &nbsp; I used to work @ AWS helping developers and small businesses host apps with [Amazon Lightsail](https://aws.amazon.com/lightsail/) and helped build Microsoft Teams @Microsoft for a bit! <br>
  :stopwatch:  &nbsp; I used to work at Microsoft to help build Microsoft Teams at scale. 
 
    #### 💬 &nbsp; Want to discuss building a solution to a problem that exists at scale? <br>
